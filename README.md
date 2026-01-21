@@ -95,7 +95,7 @@ This dashboard helps HR teams monitor attrition trends, identify problem areas, 
 
 📊 Power BI Dashboard: (https://github.com/baiesha713-a11y/HR-Analytics-Attrition-Dashboard-Power-bi/blob/main/hr%20attrition%20dashboard%20power%20bi.pbix)
 
-📁 Dataset: (Add CSV file link here)
+📁 Dataset: (https://github.com/baiesha713-a11y/HR-Analytics-Attrition-Dashboard-Power-bi/blob/main/HR%20Data.xlsx)
 
 👤 Author
 
